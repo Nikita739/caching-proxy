@@ -19,7 +19,7 @@
   },
   "private": true,
   "bin": {
-    "cash-cli": "./src/index.ts",
+    "cache-cli": "./src/index.ts",
     "test-server": "./src/TestApi/index.ts"
   },
   "type": "module"
